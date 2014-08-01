@@ -24,14 +24,14 @@ Download app from [http://www.showwin.asia/contents/FeVPN/FeVPN.zip](http://www.
 3. Confirm that the VPN which you want to use has a higher priority than other VPNs.  
 ![13](http://www.showwin.asia/contents/FeVPN/FeVPN_13.png)
 
-4. Settins Finished.
+4. Settings Finished.
 
 **Now you can open FeVPN, this app immediately starts connecting VPN.**
 
 
 
 ## Hide FeVPN
-If you dont't want to see icon on the dock, like this  
+If you don't want to see icon on the dock, like this  
 ![21](http://www.showwin.asia/contents/FeVPN/FeVPN_21.png)
 ![22](http://www.showwin.asia/contents/FeVPN/FeVPN_22.png)
 
