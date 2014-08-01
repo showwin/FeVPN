@@ -54,5 +54,5 @@ If you don't want to see icon on the dock, like this:
 
 6. When you want to quit FeVPN, please type this command in Terminal app.
 ```
-$ kill -9 `ps -ax | grep [F]eVPN | awk '{print $1}'
+$ kill -9 `ps -ax | grep [F]eVPN | awk '{print $1}'`
 ```
