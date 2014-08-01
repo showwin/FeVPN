@@ -15,13 +15,13 @@ Download app from [http://www.showwin.asia/contents/FeVPN/FeVPN.zip](http://www.
 
 **Before opening FeVPN, you have to set VPN which you want to use.**
 
-1. Open "Network" of "System Preferences".
+1. Open "Network" of "System Preferences".  
 ![11](http://www.showwin.asia/contents/FeVPN/FeVPN_11.png)
 
-2. Click "Set Service Order...".
+2. Click "Set Service Order...".  
 ![12](http://www.showwin.asia/contents/FeVPN/FeVPN_12.png)
 
-3. Confirm that the VPN which you want to use has a higher priority than other VPNs.
+3. Confirm that the VPN which you want to use has a higher priority than other VPNs.  
 ![13](http://www.showwin.asia/contents/FeVPN/FeVPN_13.png)
 
 4. Settins Finished.
