@@ -31,13 +31,13 @@ Download app from [http://www.showwin.asia/contents/FeVPN/FeVPN.zip](http://www.
 
 
 ## Hide FeVPN
-If you don't want to see icon on the dock, like this  
+If you don't want to see icon on the dock, like this:  
 ![21](http://www.showwin.asia/contents/FeVPN/FeVPN_21.png)
 ![22](http://www.showwin.asia/contents/FeVPN/FeVPN_22.png)
 
-**You can hide FeVPN as following step:**
+**You can hide FeVPN as following steps:**
 
-1. Right click on FeVPN and choose "Show Package Contents"
+1. Right click on FeVPN and choose "Show Package Contents".
 ![23](http://www.showwin.asia/contents/FeVPN/FeVPN_23.png)
 
 2. Open `/Contents/Info.plist` with Xcode.
@@ -47,10 +47,10 @@ If you don't want to see icon on the dock, like this
 ![25](http://www.showwin.asia/contents/FeVPN/FeVPN_25.png)
 
 4. Add highlighted line.  
-(choose "Application is ..." as key and value is "YES")
+(choose "Application is ..." as key and value is "YES".)
 ![26](http://www.showwin.asia/contents/FeVPN/FeVPN_26.png)
 
-5. Restart FeVPN
+5. Restart FeVPN.
 
 6. When you want to quit FeVPN, please type this command in Terminal app.
 ```
