@@ -60,6 +60,6 @@ $ kill -9 `ps -ax | grep [F]eVPN | awk '{print $1}'`
 ```
 
 ## Licence
-Copyright (c) 2014 Shogo ITO
-Released under the [MIT](http://opensource.org/licenses/mit-license.php) license
+Copyright (c) 2014 Shogo ITO.  
+Released under the [MIT](http://opensource.org/licenses/mit-license.php) license.
 
