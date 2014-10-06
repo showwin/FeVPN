@@ -4,19 +4,19 @@ FeVPN
 This is a **VPN Auto Connection** native app for Mac.  
 If your VPN is not connected, FeVPN try to connect automatically every 15-sec.  
 
-## Download
+# Download
 Check releases [HERE](https://github.com/showwin/FeVPN/releases) and please download `FeVPN.zip`.
 
-## How FeVPN Works
+# How FeVPN Works
 Every 15 seconds, FeVPN check a condition of VPN.  
 At that time, if the connection is broken, FeVPN try to reconnect VPN.  
 FeVPN notifies you like this:  
 ![notification](http://www.showwin.asia/contents/FeVPN/FeVPN_notification.png)
 
-## How to use
-Download app from [http://www.showwin.asia/contents/FeVPN/FeVPN.zip](http://www.showwin.asia/contents/FeVPN/FeVPN.zip).
+# How to use
+Download `FeVPN.zip` from [HERE](https://github.com/showwin/FeVPN/releases).
 
-**Before opening FeVPN, you have to set VPN which you want to use.**
+**Before starting FeVPN, you have to set up VPN service.**
 
 1. Open "Network" of "System Preferences".  
 ![11](http://www.showwin.asia/contents/FeVPN/FeVPN_11.png)
@@ -24,7 +24,7 @@ Download app from [http://www.showwin.asia/contents/FeVPN/FeVPN.zip](http://www.
 2. Click "Set Service Order...".  
 ![12](http://www.showwin.asia/contents/FeVPN/FeVPN_12.png)
 
-3. Confirm that the VPN which you want to use has a higher priority than other VPNs.  
+3. Confirm that the VPN service which you want to use has a higher priority than other VPN services.  
 ![13](http://www.showwin.asia/contents/FeVPN/FeVPN_13.png)
 
 4. Settings Finished.
@@ -33,34 +33,11 @@ Download app from [http://www.showwin.asia/contents/FeVPN/FeVPN.zip](http://www.
 
 
 
-## Hide FeVPN
-If you don't want to see icon on the dock, like this:  
-![21](http://www.showwin.asia/contents/FeVPN/FeVPN_21.png)
-![22](http://www.showwin.asia/contents/FeVPN/FeVPN_22.png)
-
-**You can hide FeVPN as following steps:**
-
-1. Right click on FeVPN and choose "Show Package Contents".
-![23](http://www.showwin.asia/contents/FeVPN/FeVPN_23.png)
-
-2. Open `/Contents/Info.plist` with Xcode.
-![24](http://www.showwin.asia/contents/FeVPN/FeVPN_24.png)
-
-3. Select "Editor" → "Add Item" on menubar.
-![25](http://www.showwin.asia/contents/FeVPN/FeVPN_25.png)
-
-4. Add highlighted line.  
-(choose "Application is ..." as key and value is "YES".)
-![26](http://www.showwin.asia/contents/FeVPN/FeVPN_26.png)
-
-5. Restart FeVPN.
-
-6. When you want to quit FeVPN, please type this command in Terminal app.
+## Quit FeVPN
 ```
-$ kill -9 `ps -ax | grep [F]eVPN | awk '{print $1}'`
+$ kill -9 `ps -ax | grep "[F]eVPN" | awk '{print $1}'`
 ```
 
 ## Licence
 Copyright (c) 2014 Shogo ITO.  
 Released under the [MIT](http://opensource.org/licenses/mit-license.php) license.
-

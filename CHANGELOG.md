@@ -1,2 +1,17 @@
-# 1.0.0
+# 1.1.0 (2014-10-06)
+## New Features
+### No Available VPN Error Handle  
+If any available VPN services are not defined in your Mac, FeVPN is going to quit with notification.
+
+### Try to Connect When Your Mac is Online
+If your Mac is Offline, FeVPN dosen't try to connect VPN.  
+Do try only Online.
+
+### Choose QUIT Selection When Continuous Connection Error
+When you cannot connect VPN 3-times continuously, the dialog is appear to quit FeVPN.
+
+## Bug Fixes
+* Fix Quit command on README.md
+
+# 1.0.0 (2014-08-01)
 ### First Release
