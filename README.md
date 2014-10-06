@@ -2,9 +2,10 @@ FeVPN
 =====
 
 This is a **VPN Auto Connection** native app for Mac.  
-FeVPN means **Forever VPN**.  
-Download: [http://www.showwin.asia/contents/FeVPN/FeVPN.zip](http://www.showwin.asia/contents/FeVPN/FeVPN.zip)
+If your VPN is not connected, FeVPN try to connect automatically every 15-sec.  
 
+## Download
+Check releases [HERE](https://github.com/showwin/FeVPN/releases) and please download `FeVPN.zip`.
 
 ## How FeVPN Works
 Every 15 seconds, FeVPN check a condition of VPN.  
