@@ -11,7 +11,7 @@ Check releases [HERE](https://github.com/showwin/FeVPN/releases) and please down
 Every 15 seconds, FeVPN check a condition of VPN.  
 At that time, if the connection is broken, FeVPN try to reconnect VPN.  
 FeVPN notifies you like this:  
-![notification](http://www.showwin.asia/contents/FeVPN/FeVPN_notification.png)
+![notification](https://github.com/showwin/FeVPN/blob/master/images/notification.png)
 
 # How to use
 Download `FeVPN.zip` from [HERE](https://github.com/showwin/FeVPN/releases).
@@ -19,13 +19,13 @@ Download `FeVPN.zip` from [HERE](https://github.com/showwin/FeVPN/releases).
 **Before starting FeVPN, you have to set up VPN service.**
 
 1. Open "Network" of "System Preferences".  
-![11](http://www.showwin.asia/contents/FeVPN/FeVPN_11.png)
+![step1](https://github.com/showwin/FeVPN/blob/master/images/step1.png)
 
 2. Click "Set Service Order...".  
-![12](http://www.showwin.asia/contents/FeVPN/FeVPN_12.png)
+![step2](https://github.com/showwin/FeVPN/blob/master/images/step2.png)
 
 3. Confirm that the VPN service which you want to use has a higher priority than other VPN services.  
-![13](http://www.showwin.asia/contents/FeVPN/FeVPN_13.png)
+![step3](https://github.com/showwin/FeVPN/blob/master/images/step3.png)
 
 4. Settings Finished.
 
