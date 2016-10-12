@@ -19,13 +19,15 @@ Download `FeVPN.zip` from [HERE](https://github.com/showwin/FeVPN/releases).
 **Before starting FeVPN, you have to set up VPN service.**
 
 1. Open "Network" of "System Preferences".  
-![step1](https://github.com/showwin/FeVPN/blob/master/images/step1.png)
+<img width="500" alt="step1" src="https://github.com/showwin/FeVPN/blob/master/images/step1.png">
+
 
 2. Click "Set Service Order...".  
-![step2](https://github.com/showwin/FeVPN/blob/master/images/step2.png)
+<img width="300" alt="step2" src="https://github.com/showwin/FeVPN/blob/master/images/step2.png">
+
 
 3. Confirm that the VPN service which you want to use has a higher priority than other VPN services.  
-![step3](https://github.com/showwin/FeVPN/blob/master/images/step3.png)
+<img width="300" alt="step2" src="https://github.com/showwin/FeVPN/blob/master/images/step3.png">
 
 4. Settings Finished.
 
